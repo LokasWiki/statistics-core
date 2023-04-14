@@ -230,3 +230,7 @@ class ArticleTables:
 
 def index(row, result, index):
     return index + 1
+
+
+if __name__ == "__main__":
+    pass
