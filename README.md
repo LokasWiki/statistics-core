@@ -55,5 +55,23 @@ import statistics_core
 ```
 After importing the library, you can use the functions and tools provided by `statistics-core` in your Python programs. 🚀
 
+👋 Welcome to this code repository!
+-------------------------------
+Here you'll find a set of classes that allow you to fetch data from a database and display it in a table on a wiki page.
+
+🗃️ The `Database` class connects to a database and runs a query to retrieve data. The results are stored in the `result` attribute, which can be accessed by other classes.
+
+📄 The `File` class reads the contents of a file and stores it in the `contents` attribute. It can also construct a file path based on the location of the script.
+
+📝 The `Page` class represents a wiki page and allows you to set its contents and save it.
+
+📊 The `ArticleTable` class defines a table with columns, a sort column, and optional header and footer text. It can build the table based on the contents of the `result` attribute of the `Database` class.
+
+📚 The `ArticleTables` class allows you to define multiple `ArticleTable` instances and add them to a list.
+
+🔄 The `UpdatePage` class takes a `Database` instance, a file path, a wiki page name, and an `ArticleTables` instance. It reads the contents of the file, replaces a placeholder string with the table content, and saves the updated content to the wiki page.
+
+👨‍💻 Have fun exploring and using these classes in your own projects!
+
 ## شرح الاستخدام 
 ## اسئله شائعه 
