@@ -13,8 +13,6 @@ To install `statistics-core` using `pip`, follow these steps:
 2.  Type the following command and press Enter to install `statistics-core`:
     
 
-Copy code
-
 ``` bash
 pip install statistics-core
 ```
