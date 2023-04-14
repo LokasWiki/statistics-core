@@ -1,2 +1,4 @@
 # statistics-core
-# statistics-core
+## شرح التثبيت 
+## شرح الاستخدام 
+## اسئله شائعه 
