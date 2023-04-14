@@ -1,6 +1,6 @@
 # statistics-core
 [![PyPI version](https://badge.fury.io/py/statistics-core.svg)](https://badge.fury.io/py/statistics-core)
-## شرح التثبيت 
+
 Installing `statistics-core` 📊
 -------------------------------
 
@@ -13,15 +13,15 @@ To install `statistics-core` using `pip`, follow these steps:
 2.  Type the following command and press Enter to install `statistics-core`:
     
 
-Copy code
-
-`pip install statistics-core`
+``` bash
+pip install statistics-core
+```
 
 3.  After the installation is complete, you can use `statistics-core` in your Python program by simply importing it using the following command:
 
-pythonCopy code
-
-`import statistics`
+``` python
+import statistics_core
+```
 
 After importing the library, you can use the functions and tools provided by `statistics-core` in your Python programs.
 
@@ -35,26 +35,25 @@ To install `statistics-core` using `requirements.txt`, follow these steps:
     
 2.  Add the line `statistics-core` to your `requirements.txt` file.
     
-
-Copy code
-
-`statistics-core`
+``` bash
+statistics-core
+```
 
 3.  Open a command prompt or terminal window in your project directory 💻.
     
 4.  Type the following command and press Enter to install all the libraries specified in your `requirements.txt` file, including `statistics-core`:
     
 
-Copy code
-
-`pip install -r requirements.txt`
+``` bash
+pip install -r requirements.txt
+```
 
 5.  After the installation is complete, you can use `statistics-core` in your Python program by simply importing it using the following command:
 
-pythonCopy code
-
-`import statistics`
-
+``` python
+import statistics_core
+```
 After importing the library, you can use the functions and tools provided by `statistics-core` in your Python programs. 🚀
+
 ## شرح الاستخدام 
 ## اسئله شائعه 
