@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "statistics_core",
-    version = "0.0.1",
+    version = "0.0.3",
     author = "LokasWiki",
     # author_email = "author@example.com",
     description = "short package description",
@@ -16,11 +16,13 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/LokasWiki/statistics-core/issues",
     },
     classifiers = [
+        "Development Status :: 1 - Planning",
+        "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     package_dir = {"": "src"},
     packages = setuptools.find_packages(where="src"),
-    python_requires = ">=3.9"
+    python_requires = ">=3.6"
 )
