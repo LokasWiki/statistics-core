@@ -74,4 +74,4 @@ Here you'll find a set of classes that allow you to fetch data from a database a
 👨‍💻 Have fun exploring and using these classes in your own projects!
 
 ## شرح الاستخدام 
-## اسئله شائعه 
+## أسئلة شائعة 
